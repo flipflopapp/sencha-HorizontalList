@@ -3,15 +3,13 @@ Horizontal Nested List
 
 This is implementation for a horizontal (nested list) in Sencha Touch.
 
-Its been tested with Sencha Touch 2.1 .
-
-
-Getting Started
-===============
-
 Horizontal nested list is derived from nested list.
 
 It accepts mostly the same fields as a nested list.
+
+See: http://docs.sencha.com/touch/2-0/#!/guide/nested_list
+
+Its been tested with Sencha Touch 2.1 .
 
 
 Additional config options

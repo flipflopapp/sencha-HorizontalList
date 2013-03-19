@@ -1,6 +1,6 @@
 //<debug>
 Ext.Loader.setPath({
-    'Ext': '../touch/src',
+    'Ext': 'touch/src',
     'Ext.ux': '../src/ux',
     'HorizontalNestedList': 'app'
 });

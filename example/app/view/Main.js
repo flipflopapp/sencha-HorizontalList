@@ -80,7 +80,7 @@ Ext.define('HorizontalNestedList.view.Main', {
             title = record.getData().text;
         this.getTitlebar().setTitle( title );
         this.getBackbtn().show();
-        this.getContainer().setHtml( 'Selected html <br>' + title );
+        this.getContainer().setHtml( 'Selected option<br>' + title );
     },
 
     // called when user jumps to any out of turn node
