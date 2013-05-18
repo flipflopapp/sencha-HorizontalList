@@ -3,6 +3,8 @@ Horizontal Nested List
 
 This is implementation for a horizontal (nested list) in Sencha Touch.
 
+Demo link: http://flipflopapp.github.io/horizontal-list-sencha/example/index.html
+
 Horizontal nested list is derived from nested list.
 
 It accepts mostly the same fields as a nested list.
