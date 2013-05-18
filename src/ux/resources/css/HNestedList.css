@@ -1,0 +1,46 @@
+
+.x-nested-list > .x-layout-card >  .x-layout-card-item {
+    background-image: -webkit-linear-gradient(left, rgb(144,144,144), rgb(186,186,186));
+}
+
+.x-nestedlist-tab {
+    height: 65px !important;
+    margin: 0px 0px 0px 0px !important;
+    padding: .25em .75em !important;
+    text-decoration: none !important;
+    text-align: center !important;
+    font-family: Georgia, "Times New Roman", Times, serif !important;
+    background-image: -webkit-linear-gradient(top, #ababab,#b8b8b8 10%,#c4c4c4 65%,#c6c6c6) !important;
+    border: 1px solid #999 !important;
+    border-top-color: #a6a6a6 !important;
+    color: #000 !important;
+
+    position:relative;
+    display:-webkit-box;
+    -webkit-box-orient:horizontal !important;
+    -webkit-box-pack:center !important;
+    -webkit-box-align:center !important;
+    display:box;
+    box-orient:horizontal !important;
+    box-pack:center !important;
+    box-align:center !important;
+}
+
+.x-nestedlist-tab > .x-item-icon {
+    background-size: cover !important;
+    height: 28px;
+    width: 28px;
+    margin-right: .40em;
+}
+
+.x-item-selected > .x-nestedlist-tab  {
+    background-image: -webkit-linear-gradient(top, #777777,#888888 10%, #949494 65%,#969696) !important;
+}
+
+.x-nestedlist-tab > .x-leaf-item {
+}
+
+.x-nestedlist-tab > .x-nonleaf-item {
+    font-weight:bold;
+}
+

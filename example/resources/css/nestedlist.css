@@ -1,0 +1,23 @@
+
+.categorymenu-back-button {
+    padding: .25em .75em !important;
+    margin: 0px 0px 0px 0px !important;
+    text-decoration: none !important;
+    vertical-align: middle !important;
+    text-align: center !important;
+    font-family: Georgia, "Times New Roman", Times, serif !important;
+    background-image: -webkit-linear-gradient(top, #ababab,#b8b8b8 10%,#c4c4c4 65%,#c6c6c6) !important;
+    border: 1px solid #999 !important;
+    border-top-color: #a6a6a6 !important;
+    color: #000 !important;
+    border-radius: 0px !important;
+    -webkit-border-radius: 0px !important;
+    /*
+    border-radius: 20px 0px 0px 20px !important;
+    -webkit-border-radius: 20px 0px 0px 20px !important;
+    */
+}
+
+.categorymenu-back-button > .x-button-label {
+    font-weight: normal !important;
+}
